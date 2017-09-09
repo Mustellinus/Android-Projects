@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimedTicTacToe</string>
+    <string name="player1turn">Player One\'s Turn</string>
+    <string name="player2turn">Player Two\'s Turn</string>
+</resources>

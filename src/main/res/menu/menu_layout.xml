@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal">
+    <item
+        android:id="@+id/newOption"
+        android:icon="@drawable/ic_new_game"
+        android:title="New Game"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/settingsOption"
+        android:icon="@drawable/ic_settings"
+        android:title="Change Settings"
+        app:showAsAction="ifRoom|withText" />
+</menu>
